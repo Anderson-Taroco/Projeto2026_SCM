@@ -51,3 +51,7 @@ Requisitos funcionais:
 5. Notificacoes push sobre alteracoes de agenda e lembretes.
 
 Requisito nao funcional: interface altamente intuitiva e rapida.
+
+## 4. Controle de Mudancas
+
+Versao 1.1 - Inclusao da secao de controle de mudancas e ajuste do escopo do MVP.
